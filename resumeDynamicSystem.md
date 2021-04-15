@@ -1,5 +1,5 @@
 <p>Nama : M. Syaifullah</p>
-NIM : 1821500041
+<p>NIM : 1821500041</p>
 Prodi : Teknologi Informasi
 
 # Dynamic System
